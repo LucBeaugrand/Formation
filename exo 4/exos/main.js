@@ -28,9 +28,6 @@ console.log(harrypotter.read())
 
 //Exo 3
 class Vehicle{
-    contructor(){
-    }
-
     start(){
         return `Starting vehicule`
     }
